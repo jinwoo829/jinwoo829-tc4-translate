@@ -335,6 +335,7 @@ item.ItemGolemCore.7.name=벌목
 item.ItemGolemCore.8.name=사용
 item.ItemGolemCore.9.name=도살
 item.ItemGolemCore.10.name=분류
+item.ItemGolemCore.11.name=낚시
 item.ItemGolemCore.100.name=비어있음
 item.ItemGolemPlacer.0.name=밀짚 골렘
 item.ItemGolemPlacer.1.name=나무 골렘
@@ -1019,6 +1020,13 @@ tc.research_page.CORELIQUID.1=이 코어가 장착된 골렘은 연결된 블럭
 tc.research_name.CORESORTING=골렘 코어: 분류
 tc.research_text.CORESORTING=정리정돈
 tc.research_page.CORESORTING.1=이 코어가 장착된 골렘은 비우기 코어 골렘과 유사하게 행동하지만, 한가지 큰 차이점이 있습니다. 분류 코어 골렘은 비우려 하는 인벤토리에서 자신이 아이템을 옮겨두는 인벤토리에 이미 있는 아이템만을 꺼내갑니다. 이 기능은 잡다하게 섞여있는 아이템들을 분류하는 데 매우 편리합니다.<BR>비우기 코어에 있는 꺼내갈 아이템을 추가, 혹은 제외하는 기능은 이 코어에는 없습니다.
+#
+tc.research_name.COREFISHING=골렘 코어: 낚시
+tc.research_text.COREFISHING=골렘계의 강태공
+tc.research_page.COREFISHING.1=이 코어는...골렘에게 낚시를 시킵니다!<BR>골렘을 깊고 넓은 물 속에 두면 알아서 물고기를 낚아올립니다.<BR>물고기를 잡는데 드는 시간은 골렘의 힘에 따라 달라집니다.<BR>
+tc.research_page.COREFISHING.2=        §n파이어 업그레이드§r<IMG>thaumcraft:textures/items/golem_upgrade_fire.png:0:0:255:255:0.0625</IMG>이 업그레이드가 장착된 낚시 코어 골렘은 잡아올린 물고기를 스스로 굽습니다.
+tc.research_page.COREFISHING.3=         §n오더 업그레이드§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>오더 업그레이드가 장착된 낚시 코어 골렘은 물고기를 낚아올릴 확률이 높습니다.
+tc.research_page.COREFISHING.4=       §n엔트로피 업그레이드§r<IMG>thaumcraft:textures/items/golem_upgrade_entropy.png:0:0:255:255:0.0625</IMG>엔트로피 업그레이드가 장착된 낚시 코어 골렘은 물고기를 잡지 못할 확률이 낮습니다.
 #
 tc.research_name.COREALCHEMY=골렘 코어: 연금술
 tc.research_text.COREALCHEMY=에센시아를 옮깁니다
